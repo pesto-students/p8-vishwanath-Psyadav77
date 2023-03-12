@@ -1,0 +1,26 @@
+.mainsection{
+    padding-top: 0rem; 
+    padding-bottom: 2rem;
+}
+.container{
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    place-items: center;
+    padding-left: 6rem;
+}
+.artone{
+    text-align: left;
+}
+.main-heading-banner{
+color: #293142;
+font-size: 3rem;
+margin-bottom: 5px;
+line-height: 4rem;
+font-family:'Courier New', Courier, monospace;
+}
+.headingTwo{
+    line-height: 3rem;
+    color: slategrey;
+    font-size: 1rem;
+}

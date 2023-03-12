@@ -1,0 +1,36 @@
+.shortsection{
+    width: 100%;
+    position: relative;
+}
+
+.containerShort{
+    display: flex;
+    flex-direction: row;
+}
+.shortsection .form{
+    position: absolute;
+    left: 40%;
+    top: 30%;
+    width: 30%;
+}
+.inputshort{
+    width: 100%;
+    border-radius: 0.25rem;
+    padding-top: 0.5rem; 
+    padding-bottom: 0.5rem;
+}
+
+.submit{
+    width: 120px;
+    background-color: aqua;
+    border-radius: 0.50rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+}
+.Result{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
